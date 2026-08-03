@@ -1,4 +1,5 @@
-# Decoding Perspectives in the Russia-Ukraine Conflict: A Comparative Study of RNN, LSTM, TCN and BERT Models for Stance Detection and Sentiment Analysis
+# Deep Learning based Approaches for Stance Detection and Sentiment Analysis of Russia–Ukraine conflict using Twitter News Data
+
 
 A comparative study evaluating **Simple RNN**, **LSTM**, **Temporal Convolutional Networks (TCN)**, and **BERT** for stance and sentiment classification on a large-scale Twitter dataset related to the Russia–Ukraine conflict.
 
